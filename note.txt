@@ -1,1 +1,2 @@
 Git uses repos to manage projects.
+Branches allow parallel development.
