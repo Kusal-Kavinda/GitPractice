@@ -1,0 +1,2 @@
+Git uses repositories to manage projects.
+Branches allow parallel development.
