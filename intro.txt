@@ -1,2 +1,2 @@
 This is my first Git practice file.
-This line was added in feature-branch
+This line was added in feature-branch Option 2
